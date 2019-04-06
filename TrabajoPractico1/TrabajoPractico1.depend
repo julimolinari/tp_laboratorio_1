@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1554517276 source:c:\users\julieta\desktop\codeblocksproyect\trabajopractico1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"funciones.h"
+
+1554517276 c:\users\julieta\desktop\codeblocksproyect\trabajopractico1\funciones.h
+
+1554517276 source:c:\users\julieta\desktop\codeblocksproyect\trabajopractico1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
