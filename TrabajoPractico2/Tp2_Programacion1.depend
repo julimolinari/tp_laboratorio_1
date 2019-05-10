@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1557454893 source:c:\users\julieta.molinari\desktop\tp2_programacion1\employee.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"employee.h"
+	"funciones.h"
+
+1557454649 c:\users\julieta.molinari\desktop\tp2_programacion1\employee.h
+	<string.h>
+
+1557172708 c:\users\julieta.molinari\desktop\tp2_programacion1\funciones.h
+
+1557254458 source:c:\users\julieta.molinari\desktop\tp2_programacion1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	"funciones.h"
+
+1557454893 source:c:\users\julieta.molinari\desktop\tp2_programacion1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	"employee.h"
+	"funciones.h"
+
